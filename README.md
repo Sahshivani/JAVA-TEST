@@ -1,1 +1,1 @@
-# JAVA-TEST
+# JAVA-practicals
